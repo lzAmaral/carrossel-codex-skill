@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carrossel"
+  short_description: "Carrosséis de marca, do roteiro ao PNG em alta"
+  default_prompt: "Use $carrossel para criar um carrossel com a identidade da minha marca, roteiro, legenda e PNGs em alta resolução."
