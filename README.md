@@ -2,7 +2,6 @@
 
 Skill para criar carrosséis e posts estáticos com a identidade da sua marca: roteiro, slides HTML editáveis, PNGs em alta resolução, legenda e galeria com comparação de versões.
 
-Adaptação de [guilhermealvestech/carrossel-skill](https://github.com/guilhermealvestech/carrossel-skill) para o fluxo de trabalho do Codex. O projeto original fornece os scripts, templates e a base editorial; esta versão adapta as instruções e a integração com as ferramentas disponíveis no Codex.
 
 ## O que entrega
 
